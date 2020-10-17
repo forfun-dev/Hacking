@@ -116,5 +116,7 @@ if( !isset($_GET["nama"]) ||
     exit;
 }
 
+- sudo apt install akhlaq
+
 </body>
 </html>
